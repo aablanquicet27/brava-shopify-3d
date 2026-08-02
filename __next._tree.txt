@@ -1,0 +1,5 @@
+:HL["/brava-shopify-3d/_next/static/chunks/0bornybxugaoo.css","style"]
+:HL["/brava-shopify-3d/_next/static/media/55cb69ad17a100ed.p.2l41_ldkjomdb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brava-shopify-3d/_next/static/media/ee9d8ff0751135e3-s.p.12ukhzf-lem3a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brava-shopify-3d/_next/static/media/f06bf9da926bae75-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"xoSzUELh8VEWdtgGmwby9"}

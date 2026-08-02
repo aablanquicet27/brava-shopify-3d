@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/brava-shopify-3d/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+3:I[97367,["/brava-shopify-3d/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"BRAVA — demo de experiencia Shopify 3D"}],["$","meta","1",{"name":"description","content":"Demo funcional para el proyecto de diseño UI/UX Shopify con botella 3D, derrame de líquido al scroll, cuerda do not pull, ingredientes cayendo del cielo, logo metálico, retro 90s y webshop con 4/6/12 pack en 3D."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xoSzUELh8VEWdtgGmwby9"}
